@@ -1,7 +1,7 @@
 import "./App.scss";
 
 function App() {
-  return <>we are paradox</>;
+  return <><p> {`{we are paradox}`} </p></>;
 }
 
 export default App;
