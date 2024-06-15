@@ -1,1 +1,1 @@
-# prdx-website
+# paradox design website
